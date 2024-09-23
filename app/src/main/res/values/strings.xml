@@ -1,0 +1,16 @@
+<resources>
+
+<!-- Alejandro added strings -->
+    <string name="app_name">SoundSafe</string>
+    <string name="green_light">Invest in noise-canceling headphones or earplugs to reduce ambient noise.
+    Stay at a distance from loud sound sources like speakers, machinery, or traffic.</string>
+    <string name="yellow_light">Reduce the amount of time spent in noisy environments.</string>
+    <string name="red_light">
+        90 dB: Up to 2 hours\n
+        95 dB: Up to 1 hour\n
+        100 dB: Up to 15 minutes\n
+        105 dB: Less than 5 minutes</string>
+    <string name="decibel_level">Decibel Level: %1$d dB</string>
+
+
+</resources>

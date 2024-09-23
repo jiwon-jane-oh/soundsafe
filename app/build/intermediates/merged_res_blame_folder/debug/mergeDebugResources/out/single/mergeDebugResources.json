@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_red_dark_circle.png.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/red_dark_circle.png"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_yellow_dark_circle.png.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/yellow_dark_circle.png"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_start_button_background.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/start_button_background.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_rounded_background.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/rounded_background.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_yellow_light_circle.png.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/yellow_light_circle.png"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_red_light_circle.png.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/red_light_circle.png"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_green_light_circle.png.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/green_light_circle.png"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.hfad.soundsavev1.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_green_dark_circle.png.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/green_dark_circle.png"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/drawable_gradient_background.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.hfad.soundsavev1.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.hfad.soundsavev1.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
